@@ -1,0 +1,14 @@
+D:\Core\OceanApi\OceanApi\bin\Debug\netcoreapp2.0\OceanApi.deps.json
+D:\Core\OceanApi\OceanApi\bin\Debug\netcoreapp2.0\OceanApi.runtimeconfig.json
+D:\Core\OceanApi\OceanApi\bin\Debug\netcoreapp2.0\OceanApi.runtimeconfig.dev.json
+D:\Core\OceanApi\OceanApi\bin\Debug\netcoreapp2.0\OceanApi.dll
+D:\Core\OceanApi\OceanApi\bin\Debug\netcoreapp2.0\OceanApi.pdb
+D:\Core\OceanApi\OceanApi\obj\Debug\netcoreapp2.0\OceanApi.csprojResolveAssemblyReference.cache
+D:\Core\OceanApi\OceanApi\obj\Debug\netcoreapp2.0\OceanApi.csproj.CoreCompileInputs.cache
+D:\Core\OceanApi\OceanApi\obj\Debug\netcoreapp2.0\OceanApi.AssemblyInfoInputs.cache
+D:\Core\OceanApi\OceanApi\obj\Debug\netcoreapp2.0\OceanApi.AssemblyInfo.cs
+D:\Core\OceanApi\OceanApi\obj\Debug\netcoreapp2.0\OceanApi.dll
+D:\Core\OceanApi\OceanApi\obj\Debug\netcoreapp2.0\OceanApi.pdb
+D:\Core\OceanApi\OceanApi\bin\Debug\netcoreapp2.0\OceanApi.EntityFramework.dll
+D:\Core\OceanApi\OceanApi\bin\Debug\netcoreapp2.0\OceanApi.EntityFramework.pdb
+D:\Core\OceanApi\OceanApi\bin\Debug\netcoreapp2.0\OceanApi.xml

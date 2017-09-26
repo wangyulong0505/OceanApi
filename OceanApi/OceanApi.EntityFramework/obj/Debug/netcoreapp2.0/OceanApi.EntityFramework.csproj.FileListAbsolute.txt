@@ -1,0 +1,9 @@
+D:\Core\OceanApi\OceanApi.EntityFramework\bin\Debug\netcoreapp2.0\OceanApi.EntityFramework.deps.json
+D:\Core\OceanApi\OceanApi.EntityFramework\bin\Debug\netcoreapp2.0\OceanApi.EntityFramework.dll
+D:\Core\OceanApi\OceanApi.EntityFramework\obj\Debug\netcoreapp2.0\OceanApi.EntityFramework.csprojResolveAssemblyReference.cache
+D:\Core\OceanApi\OceanApi.EntityFramework\obj\Debug\netcoreapp2.0\OceanApi.EntityFramework.csproj.CoreCompileInputs.cache
+D:\Core\OceanApi\OceanApi.EntityFramework\obj\Debug\netcoreapp2.0\OceanApi.EntityFramework.AssemblyInfoInputs.cache
+D:\Core\OceanApi\OceanApi.EntityFramework\obj\Debug\netcoreapp2.0\OceanApi.EntityFramework.AssemblyInfo.cs
+D:\Core\OceanApi\OceanApi.EntityFramework\bin\Debug\netcoreapp2.0\OceanApi.EntityFramework.pdb
+D:\Core\OceanApi\OceanApi.EntityFramework\obj\Debug\netcoreapp2.0\OceanApi.EntityFramework.dll
+D:\Core\OceanApi\OceanApi.EntityFramework\obj\Debug\netcoreapp2.0\OceanApi.EntityFramework.pdb

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OceanApi</name>
+    </assembly>
+    <members>
+        <member name="T:OceanApi.Controllers.AddressController">
+            <summary>
+            地址类接口
+            </summary>
+        </member>
+        <member name="M:OceanApi.Controllers.AddressController.#ctor(OceanApi.EntityFramework.OceanApiContext)">
+            <summary>
+            DbContext注入的构造函数
+            </summary>
+            <param name="_context"></param>
+        </member>
+        <member name="M:OceanApi.Controllers.AddressController.GetAll">
+            <summary>
+            获取前十条Address记录
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:OceanApi.Controllers.ValuesController">
+            <summary>
+            系统自带的接口实例
+            </summary>
+        </member>
+        <member name="M:OceanApi.Controllers.ValuesController.Get">
+            <summary>
+            一般Get请求
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OceanApi.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            参数Id的Get请求
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
